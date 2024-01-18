@@ -2,7 +2,7 @@
 
 <div id="vingtsun">
 	<article>
-		<header>Formas</header>
+		<header><h5>Formas</h5></header>
 		<div id="forms">
 			<div id="siulimtao">
 				<details>
@@ -40,7 +40,7 @@
 	</article>
 
 	<article>
-		<header>Chi Sao</header>
+		<header><h5>Chi Sao</h5></header>
 		<div>
 			<p>
 				Cada estudiante comienza con el entrenamiento de Chi-Sao. Es un entrenamiento especial de
@@ -52,7 +52,7 @@
 	</article>
 
 	<article>
-		<header>Material</header>
+		<header><h5>Material</h5></header>
 		<div>
 			<div id="dummy">
 				<details>
@@ -83,3 +83,9 @@
 		</div>
 	</article>
 </div>
+
+<style>
+	h5 {
+		margin: 0px;
+	}
+</style>

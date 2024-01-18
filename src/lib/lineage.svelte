@@ -8,10 +8,10 @@
 <h3>Linia</h3>
 <div id="lineage">
 	<article>
-		<header>Wong Shun Leung</header>
-		<div class="grid">
+		<header><h5>Wong Shun Leung</h5></header>
+		<div>
 			<div>
-				<img class="center" alt="wong_shun_leung" src={WSL} />
+				<img class="center" alt="wong_shun_leung" src={WSL} width="500" />
 			</div>
 			<div>
 				<p>
@@ -23,7 +23,7 @@
 	</article>
 
 	<article>
-		<header>Phillip Bayer</header>
+		<header><h5>Phillip Bayer</h5></header>
 		<div class="grid">
 			<div>
 				<img
@@ -47,7 +47,7 @@
 	</article>
 
 	<article>
-		<header>Dido</header>
+		<header><h5>Dido</h5></header>
 		<div class="grid">
 			<div>
 				<img class="center" alt="dido_philipp_bayer" src={Dido} />
@@ -65,12 +65,14 @@
 </div>
 
 <style>
+	h5 {
+		margin: 0px;
+	}
 	.center {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		margin-top: 1rem;
 		margin-bottom: 1rem;
-		width: 100%;
 	}
 </style>
