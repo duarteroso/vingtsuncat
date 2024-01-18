@@ -4,28 +4,25 @@
 </script>
 
 <h3>Contato</h3>
+
 <article id="contact">
-	<ul>
-		<li>
+	<div class="grid">
+		<div class="center">
 			<a target="_blank" href="https://www.instagram.com/automatabcn/">
 				<img src={instagram} alt="instagram" width="64" height="64" />
 			</a>
-		</li>
-		<li>
+		</div>
+		<div class="center">
 			<a target="_blank" href="">
-				<img src={facebook} alt="instagram" width="64" height="64" />
+				<img src={facebook} alt="facebook" width="64" height="64" />
 			</a>
-		</li>
-	</ul>
+		</div>
+	</div>
 </article>
 
 <style>
-	ul {
-		display: block;
-		justify-content: center;
-		justify-items: center;
-	}
-	li {
-		list-style-type: none;
+	.center {
+		text-align: center;
+		margin: 1rem;
 	}
 </style>
