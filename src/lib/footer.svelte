@@ -14,19 +14,7 @@
 </div>
 
 <style>
-	div {
-		align-content: center;
-	}
 	p {
 		text-align: center;
-		vertical-align: middle;
-	}
-	footer {
-		bottom: 0;
-		width: 100%;
-		height: 2rem;
-		position: fixed;
-		background: #11191fdb;
-		color: #fff;
 	}
 </style>
