@@ -3,7 +3,7 @@
 	<div>
 		<details>
 			<summary>Quien?</summary>
-			<p>El entreno es accessible a cualcier persona de cualcier edad.</p>
+			<p>El entreno es accessible a cualquier persona de cualquier edad.</p>
 		</details>
 	</div>
 	<div>
@@ -29,7 +29,7 @@
 		<details>
 			<summary>Cuando?</summary>
 			<div>
-				<p>Solemos entrenar en las seguintes fechas:</p>
+				<p>Solemos entrenar en las seguientes fechas:</p>
 				<div class="schedule">
 					<ul>
 						<li><strong>Lunes: 19h~21h</strong></li>
