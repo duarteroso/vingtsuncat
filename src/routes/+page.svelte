@@ -3,8 +3,6 @@
 	import Contact from '$lib/contact.svelte';
 	import Lineage from '$lib/lineage.svelte';
 	import Vingtsun from '$lib/vingtsun.svelte';
-	import Automata from '$lib/assets/automata.png';
-	import Footer from '$lib/footer.svelte';
 </script>
 
 <div class="content">
@@ -18,8 +16,4 @@
 </div>
 
 <style>
-	.content {
-		padding-top: 3rem;
-		padding-bottom: 40px;
-	}
 </style>
