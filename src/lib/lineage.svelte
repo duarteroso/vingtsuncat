@@ -15,8 +15,8 @@
 			</div>
 			<div>
 				<p>
-					<strong>Wong Shun Leung</strong> fue el luchador más famoso del sistema Ving Tsun y también
-					fue el principal responsable del entrenamiento en artes marciales de Bruce Lee.
+					<strong>Wong Shun Leung</strong> fue el luchador más famoso del sistema Ving Tsun. Fue el principal
+					responsable del entrenamiento en artes marciales de Bruce Lee.
 				</p>
 			</div>
 		</div>
