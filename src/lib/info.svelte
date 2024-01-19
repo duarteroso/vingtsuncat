@@ -26,22 +26,22 @@
 		</details>
 	</div>
 	<div>
-		<details>
+		<details open>
 			<summary>Cuándo?</summary>
 			<div>
 				<p>Horarios del gimnasio:</p>
 				<div class="schedule">
 					<ul>
-						<li><strong>Lunes - Viernes: 9h~21h</strong></li>
-						<li><strong>Sabado: 9h~13h</strong></li>
+						<li><strong>Lunes a Viernes: 9:00h - 21:00h</strong></li>
+						<li><strong>Sabado: 9:00h - 13:00h</strong></li>
 					</ul>
 				</div>
 				<p>Solemos entrenar en las seguientes fechas:</p>
 				<div class="schedule">
 					<ul>
-						<li><strong>Lunes: 19h~21h</strong></li>
-						<li><strong>Miercoles: 19h~21h</strong></li>
-						<li><strong>Viernes: 18h~20h</strong></li>
+						<li><strong>Lunes: 19:00h - 21:00h</strong></li>
+						<li><strong>Miercoles: 19:00h - 21:00h</strong></li>
+						<li><strong>Viernes: 18:00h - 20:00h</strong></li>
 					</ul>
 				</div>
 				<p>
