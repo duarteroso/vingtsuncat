@@ -2,7 +2,7 @@
 <article id="info">
 	<div>
 		<details>
-			<summary>Quien?</summary>
+			<summary>Quién?</summary>
 			<p>El entreno es accessible a cualquier persona de cualquier edad.</p>
 		</details>
 	</div>
