@@ -3,7 +3,7 @@
 	import instagram from '$lib/assets/instagram.png';
 </script>
 
-<h3>Contato</h3>
+<h3>Contacto</h3>
 
 <article id="contact">
 	<div class="grid">

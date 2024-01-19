@@ -8,8 +8,8 @@
 			<li><a href="#top"><img alt="automata_logo" src={Logo} width="24" /></a></li>
 			<li><a href="#vingtsun">Ving Tsun</a></li>
 			<li><a href="#lineage">Linia</a></li>
-			<li><a href="#info">Information</a></li>
-			<li><a href="#contact">Contato</a></li>
+			<li><a href="#info">Información</a></li>
+			<li><a href="#contact">Contacto</a></li>
 		</ul>
 	</nav>
 </div>

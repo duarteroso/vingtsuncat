@@ -1,4 +1,4 @@
-<h3>Informacion</h3>
+<h3>Información</h3>
 <article id="info">
 	<div>
 		<details>
