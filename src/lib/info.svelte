@@ -40,7 +40,7 @@
 				<div class="schedule">
 					<ul>
 						<li><strong>Lunes: 19:00h - 21:00h</strong></li>
-						<li><strong>Miercoles: 19:00h - 21:00h</strong></li>
+						<li><strong>Miércoles: 19:00h - 21:00h</strong></li>
 						<li><strong>Viernes: 18:00h - 20:00h</strong></li>
 					</ul>
 				</div>
