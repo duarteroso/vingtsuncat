@@ -27,8 +27,15 @@
 	</div>
 	<div>
 		<details>
-			<summary>Cuando?</summary>
+			<summary>Cuándo?</summary>
 			<div>
+				<p>Horarios del gimnasio:</p>
+				<div class="schedule">
+					<ul>
+						<li><strong>Lunes - Viernes: 9h~21h</strong></li>
+						<li><strong>Sabado: 9h~13h</strong></li>
+					</ul>
+				</div>
 				<p>Solemos entrenar en las seguientes fechas:</p>
 				<div class="schedule">
 					<ul>
@@ -38,9 +45,8 @@
 					</ul>
 				</div>
 				<p>
-					El gimnasio está abierto de las 9h hasta las 21h, excepto los viernes hasta las 20h. Tiene
-					sacos de boxeo, un muñeco de madera y una sala con espejos. Se recomienda entrenar tanto
-					como sea posible, independientemente del horario.
+					El gimnasio tiene sacos de boxeo, un muñeco de madera y una sala con espejos. Practica
+					todo lo que puedas fuera de los entrenos en grupo!
 				</p>
 			</div>
 		</details>
@@ -49,7 +55,7 @@
 		<details>
 			<summary>Precio?</summary>
 			<p>
-				El abono al gymnasio es de <strong>€50/mes</strong>
+				El coste de afiliacción al gimnasio es de <strong>€50/mes</strong>
 			</p>
 		</details>
 	</div>
