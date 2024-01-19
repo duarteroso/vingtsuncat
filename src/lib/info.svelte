@@ -8,7 +8,7 @@
 	</div>
 	<div>
 		<details>
-			<summary>Onde?</summary>
+			<summary>Dónde?</summary>
 			<p style="text-align: center">
 				<a href="https://sparkteambcn.com/" target="_blank"><strong>Spark Team Gym</strong></a>
 				<br />
@@ -26,14 +26,14 @@
 		</details>
 	</div>
 	<div>
-		<details open>
+		<details>
 			<summary>Cuándo?</summary>
 			<div>
 				<p>Horarios del gimnasio:</p>
 				<div class="schedule">
 					<ul>
 						<li><strong>Lunes a Viernes: 9:00h - 21:00h</strong></li>
-						<li><strong>Sabado: 9:00h - 13:00h</strong></li>
+						<li><strong>Sábado: 9:00h - 13:00h</strong></li>
 					</ul>
 				</div>
 				<p>Solemos entrenar en las seguientes fechas:</p>
