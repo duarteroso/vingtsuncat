@@ -38,8 +38,9 @@
 					</ul>
 				</div>
 				<p>
-					El gymnasio esta abierto de las 9h hasta las 21h. Tiene sacos, un muneco asi que espejos.
-					Se recomienda entranar lo mas posible, independamente de los horarios.
+					El gimnasio está abierto de las 9h hasta las 21h, excepto los viernes hasta las 20h. Tiene
+					sacos de boxeo, un muñeco de madera y una sala con espejos. Se recomienda entrenar tanto
+					como sea posible, independientemente del horario.
 				</p>
 			</div>
 		</details>
