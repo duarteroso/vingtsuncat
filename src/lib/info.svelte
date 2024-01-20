@@ -1,5 +1,7 @@
-<h3>Información</h3>
 <article id="info">
+	<header>
+		<h3>Información</h3>
+	</header>
 	<div>
 		<details>
 			<summary>Quién?</summary>
@@ -32,16 +34,16 @@
 				<p>Horarios del gimnasio:</p>
 				<div class="schedule">
 					<ul>
-						<li><strong>Lunes a Viernes: 9:00h - 21:00h</strong></li>
-						<li><strong>Sábado: 9:00h - 13:00h</strong></li>
+						<li class="linone"><strong>Lunes a Viernes: 9:00h - 21:00h</strong></li>
+						<li class="linone"><strong>Sábado: 9:00h - 13:00h</strong></li>
 					</ul>
 				</div>
 				<p>Solemos entrenar en las seguientes fechas:</p>
 				<div class="schedule">
 					<ul>
-						<li><strong>Lunes: 19:00h - 21:00h</strong></li>
-						<li><strong>Miércoles: 19:00h - 21:00h</strong></li>
-						<li><strong>Viernes: 18:00h - 20:00h</strong></li>
+						<li class="linone"><strong>Lunes: 19:00h - 21:00h</strong></li>
+						<li class="linone"><strong>Miércoles: 19:00h - 21:00h</strong></li>
+						<li class="linone"><strong>Viernes: 18:00h - 20:00h</strong></li>
 					</ul>
 				</div>
 				<p>
@@ -59,6 +61,22 @@
 			</p>
 		</details>
 	</div>
+	<div>
+		<details open>
+			<summary>Contacto</summary>
+			<div>
+				<p>Ponte en contacto con nosostros a través de:</p>
+				<ul>
+					<li>
+						<a target="_blank" href="https://www.instagram.com/automatabcn/">Instagram (Dido)</a>
+					</li>
+					<li>
+						<a target="_blank" href="https://t.me/budh0">Telegram (Duarte)</a>
+					</li>
+				</ul>
+			</div>
+		</details>
+	</div>
 </article>
 
 <style>
@@ -69,7 +87,7 @@
 		width: 100%;
 		text-align: center;
 	}
-	li {
+	.linone {
 		list-style-type: none;
 	}
 	a {
@@ -77,5 +95,8 @@
 	}
 	div {
 		margin-bottom: 1rem;
+	}
+	h3 {
+		margin-bottom: 0px;
 	}
 </style>

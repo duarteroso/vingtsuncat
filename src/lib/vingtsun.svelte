@@ -1,15 +1,14 @@
-<h3>Ving Tsun</h3>
-
 <div id="vingtsun">
 	<article>
-		<header><h5>Formas</h5></header>
+		<header><h3>Ving Tsun</h3></header>
 		<div id="forms">
+			<h5>Formas</h5>
 			<div id="siulimtao">
 				<details>
 					<summary>Siu Lim Tao</summary>
 					<p>
 						<strong>Siu Lim Tao</strong> es la primera forma del Ving Tsun. Es una parte esencial que
-						introduce las técnicas básicas de manos sin desplazamiento ni técnicas de pateo.
+						introduce los movimientos básicos de manos sin desplazamiento ni técnicas de pateo.
 					</p>
 				</details>
 			</div>
@@ -19,7 +18,7 @@
 					<p>
 						<strong>Chum Kiu</strong> es la segunda forma del Ving Tsun. Completa el
 						<strong>Siu Lim Tao</strong>
-						a través del desarrollo de ciertas técnicas básicas contenidas en ella y de la introduccion
+						a través del desarrollo de ciertos movimientos básicos contenidos en ella y de la introduccion
 						de algunos desplazamientos y pateos. Nos enseña además a corregir la postura, sentir el balance
 						y nuestro centro de gravedad. Esta forma es esencial en el aprendizaje del Ving Tsun, puesto
 						que es el puente que vincula la primera forma con la tercera.
@@ -37,23 +36,43 @@
 				</details>
 			</div>
 		</div>
-	</article>
-
-	<article>
-		<header><h5>Chi Sao</h5></header>
-		<div>
-			<p>
-				Cada estudiante comienza con el entrenamiento de Chi-Sao. Es un entrenamiento especial de
-				sensaciones que entrena los reflejos, la velocidad y la determinación para desarrollar
-				reacciones inmediatas y precisas. Este entrenamiento especial sólo lo encuentras en Ving
-				Tsun.
-			</p>
+		<br />
+		<div id="exercises">
+			<h5>Ejercicios</h5>
+			<div id="danchisao">
+				<details>
+					<summary>Dan Chi Sao</summary>
+					<p>
+						Usando solo un brazo a la vez, los estudiantes aprenden a sentir un golpe entrante
+						mientras se defienden de él.
+					</p>
+				</details>
+			</div>
+			<div id="chisao">
+				<details>
+					<summary>Chi Sao</summary>
+					<p>
+						Cada estudiante comienza con el entrenamiento de Chi-Sao. Es un entrenamiento especial
+						de sensaciones que entrena los reflejos, la velocidad y la determinación para
+						desarrollar reacciones inmediatas y precisas. Este entrenamiento especial sólo lo
+						encuentras en Ving Tsun.
+					</p>
+				</details>
+			</div>
+			<div id="gorsao">
+				<details>
+					<summary>Gor Sao</summary>
+					<p>
+						Ejercicio de sparring a partir de la posición de Chi Sao. Todas las técnicas de Ving
+						Tsun se aplican aquí en un juego de ataque y defensa para que ambos alumnos puedan
+						aprender del ejercicio.
+					</p>
+				</details>
+			</div>
 		</div>
-	</article>
-
-	<article>
-		<header><h5>Material</h5></header>
-		<div>
+		<br />
+		<div id="equipment">
+			<h5>Material</h5>
 			<div id="dummy">
 				<details>
 					<summary>Muñeco</summary>
@@ -75,8 +94,12 @@
 			</div>
 			<div id="butterfly">
 				<details>
-					<summary>Cocillos</summary>
-					<p>?</p>
+					<summary>Cuchillos</summary>
+					<p>
+						Los cuchillos mariposa son una extensión de los brazos: los conceptos que se aplican en
+						las técnicas básicas también se aplican al usar los cuchillos. Además, la forma de los
+						cuchillo agrega pasos rápidos.
+					</p>
 				</details>
 			</div>
 		</div>
@@ -84,7 +107,14 @@
 </div>
 
 <style>
+	header {
+		margin-bottom: 1rem;
+	}
+	h3 {
+		margin-bottom: 0px;
+	}
 	h5 {
-		margin: 0px;
+		color: #039be5;
+		margin-top: 0px;
 	}
 </style>
