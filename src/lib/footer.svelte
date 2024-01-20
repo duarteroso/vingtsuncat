@@ -1,6 +1,4 @@
 <script>
-	import logo from '$lib/assets/instagram.png';
-
 	const firstYear = 2024;
 	var date = new Date();
 </script>
