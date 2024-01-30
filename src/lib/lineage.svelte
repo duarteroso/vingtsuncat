@@ -13,7 +13,7 @@
 				<summary><strong>Wong Shun Leung</strong></summary>
 				<div>
 					<div>
-						<img class="center" alt="wong_shun_leung" src={WSL} width="500" />
+						<img class="center" alt="wong shun leung" src={WSL} width="500" />
 					</div>
 					<div>
 						<p>
@@ -29,7 +29,7 @@
 					<div>
 						<img
 							class="center"
-							alt="philipp_bayer_wong_shun_leung"
+							alt="philipp bayer and wong shun leung"
 							src="https://vingtsun.info/images/WongShunLeung_PhilippBayer.jpg"
 						/>
 					</div>
@@ -62,7 +62,7 @@
 				<summary><strong>Dido</strong></summary>
 				<div>
 					<div>
-						<img class="center" alt="dido_philipp_bayer" src={Dido} />
+						<img class="center" alt="dido philipp bayer" src={Dido} />
 					</div>
 					<div>
 						<p>
