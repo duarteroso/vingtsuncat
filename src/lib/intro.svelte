@@ -6,8 +6,8 @@
 <div id="top">
 	<div class="grid">
 		<div>
-			<img class="logo" src={PBLogo} alt="philipp bayer logo" />
-			<img class="logo right" src={AutomataLogo} alt="automata logo" />
+			<img class="logo" src={PBLogo} alt="artes marciales ving tsun philipp bayer logo" />
+			<img class="logo right" src={AutomataLogo} alt="artes marciales ving tsun automata logo" />
 		</div>
 	</div>
 	<div>
