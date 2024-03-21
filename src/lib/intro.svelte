@@ -11,7 +11,7 @@
 		</div>
 	</div>
 	<div>
-		<h2 class="title">Ving Tsun Boxeo Chino</h2>
+		<h1 class="title">Ving Tsun Boxeo Chino</h1>
 		<h3 class="subtitle">Linaje Philipp Bayer</h3>
 	</div>
 </div>
